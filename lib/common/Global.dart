@@ -2,6 +2,7 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_github/models/Channel.dart';
 import 'package:flutter_github/models/index.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter/material.dart';
@@ -40,6 +41,8 @@ class Global {
      }
 
    }
+
+
    //如果没有缓存策略，设置默认缓存策略
    profile.cache = profile.cache??CacheConfig()
    ..enable =true

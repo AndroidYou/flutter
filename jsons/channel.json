@@ -1,0 +1,80 @@
+{
+ "choseList": [
+   {
+     "channelName": "台湾",
+     "channelNo": "TW73"
+   },
+   {
+     "channelName": "头条",
+     "channelNo": "SYLB10,SYDT10"
+   },
+   {
+     "channelName": "娱乐",
+     "channelNo": "YL53,FOCUSYL53"
+   },
+   {
+     "channelName": "军事",
+     "channelNo": "JS83,FOCUSJS83"
+   },
+   {
+     "channelName": "体育",
+     "channelNo": "TY43,FOCUSTY43,TYLIVE,TYTOPIC"
+   },
+   {
+     "channelName": "财经",
+     "channelNo": "CJ33,FOCUSCJ33,HNCJ33"
+   },
+   {
+     "channelName": "科技",
+     "channelNo": "KJ123,FOCUSKJ123"
+   },
+   {
+     "channelName": "历史",
+     "channelNo": "LS153,FOCUSLS153"
+   },
+
+   {
+     "channelName": "汽车",
+     "channelNo": "QC45,FOCUSQC45"
+   }
+ ],
+  "unChoseList": [
+    {
+      "channelName": "社会",
+      "channelNo": "SH133,FOCUSSH133"
+    },
+    {
+      "channelName": "时尚",
+      "channelNo": "SS78,FOCUSSS78"
+    },
+    {
+      "channelName": "国学",
+      "channelNo": "GXPD,FOCUSGXPD"
+    },
+    {
+      "channelName": "文化",
+      "channelNo": "WH25,FOCUSWH25"
+    },
+    {
+      "channelName": "星座",
+      "channelNo": "XZ09,FOCUSXZ09"
+    },
+    {
+      "channelName": "读书",
+      "channelNo": "DS57,FOCUSDS57"
+    },
+    {
+      "channelName": "游戏",
+      "channelNo": "YX11,FOCUSYX11"
+    },
+    {
+      "channelName": "电影",
+      "channelNo": "DYPD"
+    },
+    {
+      "channelName": "国际",
+      "channelNo": "GJPD"
+    }
+  ]
+
+}

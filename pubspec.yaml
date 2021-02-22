@@ -33,6 +33,11 @@ dependencies:
   webview_flutter: ^1.0.7
   flutter_echarts: ^1.5.0
   flutter_webview_plugin: ^0.3.11
+  flutter_screenutil: ^4.0.3+1 #屏幕适配
+  flutter_swiper: ^1.1.6 #banner
+  chewie: ^0.12.2 #视频插件
+  flutter_rxbus: ^0.0.1
+  image_picker: ^0.6.7+22 #拍照或选取图片
 
 
 
@@ -67,6 +72,8 @@ flutter:
   assets:
     - html/echarts.html
     - assets/flies/ceshi.html
+    - jsons/channel.json
+    - imgs/ic_play.png
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
