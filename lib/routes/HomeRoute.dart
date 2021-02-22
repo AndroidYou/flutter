@@ -229,7 +229,6 @@ class MyDrawer extends StatelessWidget {
                     onTap: () {
                       _openGallery();
                     },
-
                   )
               ),
             )
